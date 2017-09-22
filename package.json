@@ -1,6 +1,6 @@
 {
   "name": "jest-fuck",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "repository": "https://github.com/vroudge/jest-fuck",
   "dependencies": {
     "play-sound": "^1.1.1"
