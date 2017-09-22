@@ -3,7 +3,7 @@ Play an audible 'fuck' whenever your tests fail
 
 ## Installation:
 
-`npm install --save-dev jest-reporter`
+`npm install --save-dev jest-fuck`
 
 ## Getting Started
 
@@ -13,10 +13,8 @@ In your `package.json` add:
 ```json
 "jest": {
   "reporters": [
-    "default",
-    [
-      "<rootDir>/node_modules/jest-reporter"
-    ]
+    "default"
+    "<rootDir>/node_modules/jest-fuck"
   ]
 }
 ```
