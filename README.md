@@ -13,7 +13,7 @@ In your `package.json` add:
 ```json
 "jest": {
   "reporters": [
-    "default"
+    "default",
     "<rootDir>/node_modules/jest-fuck"
   ]
 }
